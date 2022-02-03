@@ -1,0 +1,32 @@
+D:\Faculta Stuff\Anul II\Semestrul I\exercitii MAP\ex1\ex1\bin\Debug\net5.0\ex1.exe
+D:\Faculta Stuff\Anul II\Semestrul I\exercitii MAP\ex1\ex1\bin\Debug\net5.0\ex1.deps.json
+D:\Faculta Stuff\Anul II\Semestrul I\exercitii MAP\ex1\ex1\bin\Debug\net5.0\ex1.runtimeconfig.json
+D:\Faculta Stuff\Anul II\Semestrul I\exercitii MAP\ex1\ex1\bin\Debug\net5.0\ex1.runtimeconfig.dev.json
+D:\Faculta Stuff\Anul II\Semestrul I\exercitii MAP\ex1\ex1\bin\Debug\net5.0\ex1.dll
+D:\Faculta Stuff\Anul II\Semestrul I\exercitii MAP\ex1\ex1\bin\Debug\net5.0\ref\ex1.dll
+D:\Faculta Stuff\Anul II\Semestrul I\exercitii MAP\ex1\ex1\bin\Debug\net5.0\ex1.pdb
+D:\Faculta Stuff\Anul II\Semestrul I\exercitii MAP\ex1\ex1\obj\Debug\net5.0\ex1.csproj.AssemblyReference.cache
+D:\Faculta Stuff\Anul II\Semestrul I\exercitii MAP\ex1\ex1\obj\Debug\net5.0\ex1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculta Stuff\Anul II\Semestrul I\exercitii MAP\ex1\ex1\obj\Debug\net5.0\ex1.AssemblyInfoInputs.cache
+D:\Faculta Stuff\Anul II\Semestrul I\exercitii MAP\ex1\ex1\obj\Debug\net5.0\ex1.AssemblyInfo.cs
+D:\Faculta Stuff\Anul II\Semestrul I\exercitii MAP\ex1\ex1\obj\Debug\net5.0\ex1.csproj.CoreCompileInputs.cache
+D:\Faculta Stuff\Anul II\Semestrul I\exercitii MAP\ex1\ex1\obj\Debug\net5.0\ex1.dll
+D:\Faculta Stuff\Anul II\Semestrul I\exercitii MAP\ex1\ex1\obj\Debug\net5.0\ref\ex1.dll
+D:\Faculta Stuff\Anul II\Semestrul I\exercitii MAP\ex1\ex1\obj\Debug\net5.0\ex1.pdb
+D:\Faculta Stuff\Anul II\Semestrul I\exercitii MAP\ex1\ex1\obj\Debug\net5.0\ex1.genruntimeconfig.cache
+D:\Alex\Facultate\map\examen\ex1\ex1\bin\Debug\net5.0\ex1.exe
+D:\Alex\Facultate\map\examen\ex1\ex1\bin\Debug\net5.0\ex1.deps.json
+D:\Alex\Facultate\map\examen\ex1\ex1\bin\Debug\net5.0\ex1.runtimeconfig.json
+D:\Alex\Facultate\map\examen\ex1\ex1\bin\Debug\net5.0\ex1.runtimeconfig.dev.json
+D:\Alex\Facultate\map\examen\ex1\ex1\bin\Debug\net5.0\ex1.dll
+D:\Alex\Facultate\map\examen\ex1\ex1\bin\Debug\net5.0\ref\ex1.dll
+D:\Alex\Facultate\map\examen\ex1\ex1\bin\Debug\net5.0\ex1.pdb
+D:\Alex\Facultate\map\examen\ex1\ex1\obj\Debug\net5.0\ex1.csproj.AssemblyReference.cache
+D:\Alex\Facultate\map\examen\ex1\ex1\obj\Debug\net5.0\ex1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alex\Facultate\map\examen\ex1\ex1\obj\Debug\net5.0\ex1.AssemblyInfoInputs.cache
+D:\Alex\Facultate\map\examen\ex1\ex1\obj\Debug\net5.0\ex1.AssemblyInfo.cs
+D:\Alex\Facultate\map\examen\ex1\ex1\obj\Debug\net5.0\ex1.csproj.CoreCompileInputs.cache
+D:\Alex\Facultate\map\examen\ex1\ex1\obj\Debug\net5.0\ex1.dll
+D:\Alex\Facultate\map\examen\ex1\ex1\obj\Debug\net5.0\ref\ex1.dll
+D:\Alex\Facultate\map\examen\ex1\ex1\obj\Debug\net5.0\ex1.pdb
+D:\Alex\Facultate\map\examen\ex1\ex1\obj\Debug\net5.0\ex1.genruntimeconfig.cache

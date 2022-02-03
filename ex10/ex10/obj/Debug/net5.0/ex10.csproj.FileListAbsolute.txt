@@ -1,0 +1,16 @@
+D:\Alex\Facultate\map\exercitii-examen\ex10\ex10\bin\Debug\net5.0\ex10.exe
+D:\Alex\Facultate\map\exercitii-examen\ex10\ex10\bin\Debug\net5.0\ex10.deps.json
+D:\Alex\Facultate\map\exercitii-examen\ex10\ex10\bin\Debug\net5.0\ex10.runtimeconfig.json
+D:\Alex\Facultate\map\exercitii-examen\ex10\ex10\bin\Debug\net5.0\ex10.runtimeconfig.dev.json
+D:\Alex\Facultate\map\exercitii-examen\ex10\ex10\bin\Debug\net5.0\ex10.dll
+D:\Alex\Facultate\map\exercitii-examen\ex10\ex10\bin\Debug\net5.0\ref\ex10.dll
+D:\Alex\Facultate\map\exercitii-examen\ex10\ex10\bin\Debug\net5.0\ex10.pdb
+D:\Alex\Facultate\map\exercitii-examen\ex10\ex10\obj\Debug\net5.0\ex10.csproj.AssemblyReference.cache
+D:\Alex\Facultate\map\exercitii-examen\ex10\ex10\obj\Debug\net5.0\ex10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alex\Facultate\map\exercitii-examen\ex10\ex10\obj\Debug\net5.0\ex10.AssemblyInfoInputs.cache
+D:\Alex\Facultate\map\exercitii-examen\ex10\ex10\obj\Debug\net5.0\ex10.AssemblyInfo.cs
+D:\Alex\Facultate\map\exercitii-examen\ex10\ex10\obj\Debug\net5.0\ex10.csproj.CoreCompileInputs.cache
+D:\Alex\Facultate\map\exercitii-examen\ex10\ex10\obj\Debug\net5.0\ex10.dll
+D:\Alex\Facultate\map\exercitii-examen\ex10\ex10\obj\Debug\net5.0\ref\ex10.dll
+D:\Alex\Facultate\map\exercitii-examen\ex10\ex10\obj\Debug\net5.0\ex10.pdb
+D:\Alex\Facultate\map\exercitii-examen\ex10\ex10\obj\Debug\net5.0\ex10.genruntimeconfig.cache

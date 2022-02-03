@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PTjFJP+B/N4E45vIz9Nz+jOTnV3kKAfR+38d/0gN5mFqZu6ezyRCwoYe7FlPJ5V0ELHGwOcCsfg5W1VDe/tyyw==",
+  "success": true,
+  "projectFilePath": "D:\\Alex\\Facultate\\map\\examen\\ex10\\ex10\\ex10.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexd\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
